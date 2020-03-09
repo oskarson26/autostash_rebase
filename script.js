@@ -11,3 +11,5 @@ const divide = (num1, num2) => num1 / num2
 const isOdd = num1 => num1 % 2 === 1
 const isDivisibleBy3 = num => num % 3 === 0 
 const isDivisibleBy4 = num => num % 4 === 0
+const isDivisibleBy5 = num => num % 5 === 0
+const isDivisibleBy6 = num => num % 6 === 0
